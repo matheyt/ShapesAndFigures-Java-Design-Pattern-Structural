@@ -9,6 +9,6 @@ public class Circle extends Shapes {
 	}
 	
 	public String toString(){
-		return "Rayon : "+this.radius;
+		return "CERCLE :  Rayon : "+this.radius;
 	}
 }

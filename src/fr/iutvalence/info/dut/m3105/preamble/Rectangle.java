@@ -11,6 +11,6 @@ public class Rectangle extends Shapes {
 	}
 	
 	public String toString(){
-		return "(Width, height) : ("+this.width+", "+this.height+")";
+		return "RECTANGLE :  (Width, height) : ("+this.width+", "+this.height+")";
 	}
 }

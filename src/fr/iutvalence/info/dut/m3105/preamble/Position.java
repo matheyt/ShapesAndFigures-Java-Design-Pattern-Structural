@@ -11,15 +11,7 @@ public class Position {
 		this.y = posY;
 	}
 	
-	public int getX() {
-		return x;
-	}
-
-	public int getY() {
-		return y;
-	}
-	
 	public String toString(){
-		return ""+this.x+", "+this.y;
+		return "Position : ("+this.x+", "+this.y+")";
 	}
 }
